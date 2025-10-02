@@ -143,14 +143,14 @@ setup(
 
 # Post-installation message
 print("\n" + "="*50)
-print("🔍 PktAnalyzer Installation Complete!")
+print("PktAnalyzer Installation Complete!")
 print("="*50)
-print("\n📋 Quick Start:")
+print("\nQuick Start:")
 print("1. Install dependencies:")
 print("   pip install scapy matplotlib numpy")
 print("\n2. Run examples:")
 print("   python examples/basic_sniff.py")
 print("   python examples/analyze_pcap.py")
 print("   python examples/live_monitor.py")
-print("\n⚠️  Note: Packet capture requires admin privileges")
+print("\nNote: Packet capture requires admin privileges")
 print("="*50)
