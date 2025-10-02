@@ -1,0 +1,17 @@
+# Core dependencies for PktAnalyzer
+scapy>=2.4.5
+matplotlib>=3.3.0
+numpy>=1.19.0
+
+# Optional visualization enhancements
+# seaborn>=0.11.0
+# plotly>=5.0.0
+
+# Optional analysis enhancements  
+# pandas>=1.3.0
+
+# Development dependencies
+# pytest>=6.0.0
+# pytest-cov>=2.10.0
+# black>=21.0.0
+# flake8>=3.8.0
